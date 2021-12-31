@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/binarybunnyblog">
-</p>
-
 # <p align="center">greetings :purple_heart:</p>
 
 Hey. I’m BinaryBunny (@binarybunnyblog).
