@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/binarybunnyblog/binarybunnyblog/main/WallpaperDog-10768060.jpg">
+</p>
+
 # <p align="center">greetings :purple_heart:</p>
 
 Hey. I’m BinaryBunny (@binarybunnyblog).
